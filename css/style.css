@@ -410,7 +410,8 @@ img{
 img{
 	display:inline-block;
 	max-width:100%;
-	height:auto;	
+	height:auto;
+	width: 130px;	
 }
 
 /*** 
@@ -995,7 +996,7 @@ img{
 .main-menu .navigation > li{
 	position:relative;
 	display:inline-block;
-	padding:20px 0px;
+	padding:0px 0px;
 	margin:0px 15px;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
