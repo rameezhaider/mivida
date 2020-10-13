@@ -594,8 +594,9 @@
 	
 	
 	//Contact Form Validation
-	if($('#contact-form').length){
-		$('#contact-form').validate({
+	const contactForm = $('#contact-form') || $('#contact-form-index');
+	if(contactForm.length){
+		contactForm.validate({
 			rules: {
 				name: {
 					required: true
