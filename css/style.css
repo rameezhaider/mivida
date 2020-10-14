@@ -10259,3 +10259,7 @@ img{
 .comment-form button{
 	cursor:pointer;
 }
+
+.main-herobanner {
+	height: 100vh;
+}
