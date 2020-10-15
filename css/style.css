@@ -10350,3 +10350,25 @@ img{
 	color: #666666;
 	font-weight: 400;
  }
+ .main-footer .contact-list li span {
+	color: #666666;
+	font-size: 14px;
+ }
+ .main-footer .contact-list li a {
+	 font-size: 14px;
+	 color: #666666;
+ }
+ .main-footer .contact-list li {
+	 color: black;
+	 font-size: 14px;
+	 font-weight: 600;
+ }
+ .main-footer .about-widget .text {
+	color: #666666;
+ }
+ .main-footer .about-widget .copyright {
+	color: #666666;
+ }
+ .main-footer .about-widget .social-links li a {
+	color: #666666;
+ }
