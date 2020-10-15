@@ -10267,4 +10267,29 @@ img{
 
 .main-herobanner {
 	height: 100vh;
+	padding-top: 220px;
+}
+#mastHeadVideo {
+	object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+.form-section {
+	padding: 40px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 15px;
+}
+.form-section h4 {
+	font-weight: 800;
+    color: white;
+    text-align: center;
+}
+.form-section p {
+	color: white;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 26px;
 }
