@@ -10317,3 +10317,36 @@ img{
     text-align: center;
     margin-bottom: 26px;
 }
+.viewAllLink {
+	padding-top: 15px;
+}
+.viewAllLink .fa-long-arrow-right {
+	margin-left: 10px;
+}
+ ul li {
+	list-style-type: disc;
+ }
+ .story-block-two .inner-box .content-column .inner-column .text p {
+	 font-size: 20px;
+ }
+ .contact-info-section ul li {
+	 list-style-type: none;
+	 line-height: 21px;
+	 color: #666666;
+	 font-weight: 600;
+ }
+ .contact-info-section .list-style-two li .icon {
+	 float: left;
+	 line-height: 25px;
+ }
+ .main-footer .footer-widget h2 {
+	color: black;
+}
+ .main-footer ul li {
+	list-style-type: none;
+	line-height: 0.8em;
+ }
+ .main-footer ul li a  {
+	color: #666666;
+	font-weight: 400;
+ }
