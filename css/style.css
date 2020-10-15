@@ -797,8 +797,7 @@ img{
 	position:absolute;
 	right:0px;
 	top:0px;
-	padding:38px 60px;
-	background-color:#ffffff;
+	padding:52px 60px;
 }
 
 .main-header .header-upper .social-outer-box .social-links{
@@ -806,9 +805,14 @@ img{
 }
 
 .main-header .header-upper .social-outer-box .social-links li{
-	position:relative;
-	margin:0px 10px;
-	display:inline-block;
+	position: relative;
+    margin: 0px 5px;
+    display: inline-block;
+    background: white;
+    width: 30px;
+    border-radius: 30px;
+    text-align: center;
+    height: 30px;
 }
 
 .main-header .header-upper .social-outer-box .social-links li a{
@@ -2750,7 +2754,7 @@ img{
 
 .product-tab-section .content-box .inner-content{
 	position:relative;
-	max-width:770px;
+	max-width:100%;
 	z-index:1;
 	margin-left:100px;
 	padding:70px 110px 70px;
@@ -10276,6 +10280,26 @@ img{
   top: 0;
   left: 0;
   position: absolute;
+  z-index: 1;
+}
+.main-herobanner:before {
+	position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+	background-color: rgba(26,26,26,0.80);
+	z-index: 2;
+	height: 100vh;
+}
+.main-herobanner .auto-container {
+	z-index: 3;
+	position: relative;
+}
+.main-herobanner h1 {
+	font-weight: 800;
+	color: white;
 }
 .form-section {
 	padding: 40px;
