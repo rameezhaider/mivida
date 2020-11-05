@@ -10443,3 +10443,10 @@ img{
 
 
 /* Rameez's CSS */
+.project-section-padding{
+	padding-top:20px !important;
+}
+.light-text {
+	font-size: 14px !important;
+	line-height: 1.2
+}
