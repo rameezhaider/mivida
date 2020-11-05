@@ -10372,3 +10372,17 @@ img{
  .main-footer .about-widget .social-links li a {
 	color: #666666;
  }
+
+ .table-custom {
+	 background-color: #F3F3F3;
+	 border-radius: 20px;
+	 color: #000
+ }
+ .table-custom thead th, .table-custom thead tr {
+	 font-weight: bold;
+ 	 border-bottom: 0;
+	 border-top: 0px;
+ }
+ .table-custom th, .table-custom td, .table-custom tr {
+	 border-top: 2px solid #FFF;
+ }
