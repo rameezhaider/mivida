@@ -1,6 +1,8 @@
 # mivida
 MiVida
 
+[Master Plan](https://symu.co/hwtwsg.sl)
+
 [Booking](https://symu.co/fffdwm.sl)
 
 [Contact](https://symu.co/ddkzvw.sl)
