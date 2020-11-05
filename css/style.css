@@ -10397,7 +10397,41 @@ img{
 .page-title-contact:before {
 	background-color: rgba(0,0,0,.1);
 }
-
+.page-title-masterplan {
+	text-align: center;
+	height: 730px;
+	padding: 317px 0px;
+}
+.page-title-masterplan .content {
+	padding-left: 0;
+}
+.master-plan-stories .inner-column {
+	margin-right: 0 !important;
+}
+.master-plan-stories .sec-title h2 {
+	padding-left: 70px;
+}
+.master-plan-stories .sec-title h2:before {
+	left: 5px;
+}
+.master-plan-stories .master-plan-story {
+	top: 0px !important;
+}
+/*
+.master-plan-story {
+	width: 70%;
+}
+.master-plan-story ul {
+	font-size: 15px;
+	line-height: 18px;
+}
+.row-story-image {
+	position: absolute;
+    top: 1px;
+    right: 0;
+    z-index: 3;
+}
+*/
  /* Hamza's CSS */
 
 
