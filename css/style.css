@@ -10376,7 +10376,7 @@ img{
  .table-custom {
 	 background-color: #F3F3F3;
 	 border-radius: 20px;
-	 color: #000
+	 color: #000;
  }
  .table-custom thead th, .table-custom thead tr {
 	 font-weight: bold;
@@ -10385,4 +10385,11 @@ img{
  }
  .table-custom th, .table-custom td, .table-custom tr {
 	 border-top: 2px solid #FFF;
+ }
+ .no-margin {
+	 margin: 0 !important;
+ }
+
+ .black-white-bg {
+	 filter: grayscale(100%);
  }
