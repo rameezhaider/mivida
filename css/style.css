@@ -10446,8 +10446,13 @@ img{
 
 
 /* Hassan's CSS */
-
-
+.section-content-WhoWeAre {
+	height: 508px ;
+    margin-bottom: 368px;
+}
+.text-section-WhoWeAre{
+	text-align: center;
+}
 
 /* Rameez's CSS */
 .project-section-padding{
