@@ -3447,7 +3447,14 @@ img{
 	opacity:1;
 	
 }
+.low-alpha:before{
 
+	z-index:1;
+	background-color:rgba(0,0,0,0.67) !important;
+}
+.text-header-whoweare{
+	z-index: 2;
+}
 .team-block .inner-box .overlay-inner{
 	position:absolute;
 	left:0px;
