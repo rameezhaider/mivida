@@ -3447,7 +3447,14 @@ img{
 	opacity:1;
 	
 }
+.low-alpha:before{
 
+	z-index:1;
+	background-color:rgba(0,0,0,0.67) !important;
+}
+.text-header-whoweare{
+	z-index: 2;
+}
 .team-block .inner-box .overlay-inner{
 	position:absolute;
 	left:0px;
@@ -10439,9 +10446,35 @@ img{
 
 
 /* Hassan's CSS */
+.section-content-WhoWeAre {
+	height: 508px ;
+    margin-bottom: 368px;
+}
+.text-section-WhoWeAre{
+	text-align: center;
+}
+.textbox-leftpadding{
+	margin-left: 0px !important;
+}
+.textbox-majestic{
 
-
-
+	margin-right: 134px;
+	margin-bottom: 90px;
+}
+.image-WhoWeAre{
+	left: 55px;
+	position: absolute;
+	z-index: 70;
+	top: -46px;
+	background-color: #fff;
+	width: 263px;
+}
+.image2-WhoWeAre{
+	width: auto;
+	height: auto;
+	margin-left: 0%;
+	margin-right: 0%;
+}
 /* Rameez's CSS */
 .project-section-padding{
 	padding-top:20px !important;
