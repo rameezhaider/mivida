@@ -2736,7 +2736,7 @@ img{
 	top:0px;
 	right:0px;
 	bottom:0px;
-	background-color:rgba(26,26,26,0.92);
+	background-color:rgba(26,26,26,0.80);
 }
 
 .product-tab-section:after{
@@ -10425,6 +10425,15 @@ img{
 }
 .master-plan-stories .master-plan-story {
 	top: 0px !important;
+}
+.no-box-shadow {
+	box-shadow: none !important;
+}
+.product-tab-section .content-box .team-message {
+	padding: 16px 110px 70px;
+}
+.majestic-section:before {
+	background-color: white;
 }
 /*
 .master-plan-story {
