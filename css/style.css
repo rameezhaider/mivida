@@ -10435,6 +10435,38 @@ img{
 .majestic-section:before {
 	background-color: white;
 }
+.who-we-are-box {
+	text-align: left !important;
+}
+
+.who-we-are-box h2 {
+	font-size: 28px;
+	position: relative;
+    color: #222222;
+    font-weight: 700;
+    line-height: 1.3em;
+    display: inline-block;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+
+.who-we-are-box h2:before {
+	position: absolute;
+    content: '';
+    left: -25px;
+    top: 19px;
+    height: 2px;
+    width: 15px;
+    background-color: #F6AA2A;
+}
+.who-we-are-box p {
+    position: relative;
+    line-height: 20px;
+    font-size: 15px;
+}
+.featured-companies {
+	padding-bottom: 100px;
+}
 /*
 .master-plan-story {
 	width: 70%;
